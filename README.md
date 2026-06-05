@@ -1,34 +1,75 @@
-# SpotiFLAC Next
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# SpotiFLAC-Next
 
-Get Spotify tracks in Hi-Res lossless FLACs — no account required.
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/SpotiFLAC-Next)
 
-![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwIDEwLjg3M1YyMEw4LjQ3OSAxOC41MzdsLjAwMS03LjY2NEgyMFptLTEzLjEyIDBsLS4wMDEgNy40NjFMMCAxNy40NjF2LTYuNTg4aDYuODhaTTIwIDkuMjczSDguNDhsLS4wMDEtNy44MUwyMCAwdjkuMjczWk02Ljg3OSAxLjY2NmwuMDAxIDcuNjA3SDBWMi41MzlsNi44NzktLjg3M1oiLz48L3N2Zz4=)
-![macOS](https://img.shields.io/badge/macOS-10.13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-> [!IMPORTANT]
-> **SpotiFLAC Next** is a separate next-generation project. It has now been released and is available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W31VL81Y) who support SpotiFLAC. If you're a supporter but cannot see the post, please **contact me via Ko-fi.** A public release has not yet been determined.
-> 
-> [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
+## Architecture
 
-> [!NOTE]
-> **SpotiFLAC Next** introduces major improvements that are not available in the regular version, including:
-> 
-> * Easier and more flexible customization
-> * Extension support
-> * Workflow and pipeline configuration
-> * Instance and credential management
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-## Comparison
+## Install
 
-| Feature | SpotiFLAC | SpotiFLAC Next |
-|---------|-----------|----------------|
-| **Track Fetching** | Spotify Web | Spotify Web |
-| **Link Resolver** | Songlink | Songlink, Odesli |
-| **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz |
-| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz, Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
-     
-## Preview
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-![SpotiFLAC-Next-dev_Sclch0PHby](https://github.com/user-attachments/assets/d8c167b9-a315-490c-8dce-8495ec56dbaa)
+```bash
+git clone https://github.com/Interested-Deving-1896/SpotiFLAC-Next.git
+cd SpotiFLAC-Next
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/SpotiFLAC-Next`](https://github.com/Interested-Deving-1896/SpotiFLAC-Next) and mirrored through:
+
+```
+Interested-Deving-1896/SpotiFLAC-Next  ──►  OpenOS-Project-OSP/SpotiFLAC-Next  ──►  OpenOS-Project-Ecosystem-OOC/SpotiFLAC-Next
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
